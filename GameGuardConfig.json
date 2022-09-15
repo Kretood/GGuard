@@ -1,0 +1,5 @@
+{
+	"debug_server_addr": "aws-admin.boominggames.com",
+	"debug_server_port": 9900,
+	"download_prefix" : "download"
+}
